@@ -1,0 +1,23 @@
+{
+  "name": "test-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freekingg/test-deloy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freekingg/test-deloy/issues"
+  },
+  "homepage": "https://github.com/freekingg/test-deloy#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
