@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/freekingg/test-deloy#readme",
   "dependencies": {
-    "koa": "^2.13.0"
+    "koa": "^3.0.1"
   }
 }
